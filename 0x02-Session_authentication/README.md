@@ -1,2 +1,2 @@
-# Simple API
+# 0x02. Session authentication
 
